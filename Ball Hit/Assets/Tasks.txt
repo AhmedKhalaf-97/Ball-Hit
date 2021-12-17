@@ -1,0 +1,102 @@
+daily reward
+rate
+aspect ratio
+
+ui bloom (FPS reduced by 10 FPS)
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+challenge mode:
+score ## in one run
+score ## in ## a row
+score ## in total
+score ## in ## run
+score between ## and ## in ......
+score ## without smashing any obstacle
+score ## without hit by any obstacle
+score ## without hit by or smashing any obstacle
+
+collect ## gems in one run
+collect ## gems ## in a row
+collect ## gems in total
+collect ## gems in ## run
+collect gems between ## and ## in .......
+collect ## gems without smashing any obstacle
+
+smash ## obstacles in ## time in one run
+smash ## obstacles in ## time in ## a row
+smash ## obstacles in ## time in ## run
+Don't smash any obstacles for ## time
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+0 --> 21:
+1000
+20
+50 in 30
+
+21 --> 43:
+2000
+40
+100 in 60
+
+43 --> 65:
+3000
+50
+200 in 90
+
+65 --> 87:
+4000
+60
+250 in 100
+
+87 --> 99:
+4500
+65
+300 in 120
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+Saving Data Shortcuts:
+  1)GameDataSave:
+     BRT --> BallRechargerTime.
+	 HC --> HeartCount
+	 SMC --> SlowMotionCount
+	 CC --> CollectedCoin
+	 GM --> GameMode
+	 SV --> SensitivityValue
+	 BC --> BallsCount
+  2)QualitySettingsManager:
+	 QS --> QualitySetting
+	 BFC --> BloomEffectCondition
+  3)MainMenu:
+     HS --> HighScore
+	 CS --> CumulativeScore
+	 LN --> LevelNumber
+  4)BallAndRoadChoicesManager:
+     LSBI --> last selected ball item
+	 PBI --> purchased ball item
+	 LSRI --> last selected Road item
+	 PRI --> purchased road item
+  5)ChallengeMode:
+	 CI --> Challenge Index
+  6)SceneSwitcher:
+	 NM --> NightMode
+  7)Player:
+     SC --> ShieldCount
+  8)Shoot:
+     UB --> UnlimitedBalls
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+Ball and Roads Value = 35000 gems if every item equal to 500 gems.
+Items value = 48000 gems
+
+Store Prices:
+
+25k gems = 0.99 USD
+55k gems = 1.99 USD
+80K gems = 2.99 USD
+150k gems = 3.99 USD
+Unlimited Balls = 3.99 USD

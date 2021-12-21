@@ -1,6 +1,6 @@
 # Ball-Hit
 
-"Ball Hit" is a game, and it was published in 2019 by me.
+"Ball Hit" is a mobile game, and it was published in 2019 by me.
 
 You can find game details like a description, screenshots, and a preview on my [Blogspot webpage.](https://bantergames.blogspot.com/2019/03/ball-hit.html)
 
